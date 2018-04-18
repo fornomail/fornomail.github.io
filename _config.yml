@@ -1,0 +1,11 @@
+safe:      true
+permalink: date
+markdown:  redcarpet
+highlighter: rouge
+exclude:   [ README.md, Gemfile, .*, bower.json ]
+
+# Setup
+title: "Fornomail"
+tagline: ""
+url: http://fornomail.github.io
+baseurl: "http://fornomail.github.io"
